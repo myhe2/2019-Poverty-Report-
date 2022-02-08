@@ -4,4 +4,4 @@ Poverty, the state of living without sufficient income to provide for one’s ne
 The goal will be achieved by framing the project to answer the following questions:
     1.	What is the magnitude of aid that supplemental poverty programs provide? 
     2.	Are federal poverty relief programs statistically effective at increasing resources for impoverished people? 
-![image](https://user-images.githubusercontent.com/75142346/153088153-58476566-7dc6-44e1-b3ff-e5b1c2d42e87.png)
+
